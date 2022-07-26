@@ -23,3 +23,5 @@ implementation.java
 * Keep the functions and classes on default to avoid the static/non-static error
 *
 * */
+
+Further code added for Linked List and Doubly Linked List
